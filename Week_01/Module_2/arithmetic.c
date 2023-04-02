@@ -17,3 +17,5 @@ int main()
 
     return 0;
 }
+
+// In C language if one int divided by other int their ans will be an "integer", moreover if one digit is float than the ans will be showed in "floating" number. If i have to show ans in float i have to multiply 0.1 with one of integer.
