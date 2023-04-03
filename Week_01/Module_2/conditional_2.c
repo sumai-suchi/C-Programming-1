@@ -9,7 +9,6 @@ int main(){
     }else{
         printf("I will eat nothing");
     }
-    
 
     return 0;
 }
