@@ -15,7 +15,7 @@ int main()
     return 0;
 }
 
-// every variable take 4 byte space in ram
+// int & float take 4 byte space in ram while char take 1 byte space
 // int -> %d (if you want to print integer)
 // float -> %f (if you want to print float)
 // floating Number Control -> %0.2f (1000.520020 to 1000.52)
