@@ -1,1 +1,1 @@
-The given digit is odd number.
+Positive
