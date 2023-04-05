@@ -2,7 +2,6 @@
 int main()
 {
     int i;
-
     // While Loop
     i = 1;
     while (i <= 5){
