@@ -4,14 +4,14 @@ int main()
 {
     int n, x;
     scanf("%d", &n);
-    int max = INT_MIN;
+    int min = INT_MAX;
     for(int i=1; i<=n; i++){
         scanf("%d", &x);
-        if(max < x){
-            max = x;
+        if(min > x){
+            min = x;
         }
     }
-    printf("%d\n", max);
+    printf("%d\n", min);
 
     return 0;
 }
