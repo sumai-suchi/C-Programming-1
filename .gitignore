@@ -1,15 +1,26 @@
 .vscode
 
 **/Week_01/Module_1/*.exe
+**/Week_01/Module_1/*.txt
 **/Week_01/Module_2/*.exe
+**/Week_01/Module_2/*.txt
 **/Week_01/Module_2.5/*.exe
+**/Week_01/Module_2.5/*.txt
 **/Week_01/Module_2.5/tempCodeRunnerFile.c
 **/Week_01/Module_3/*.exe
+**/Week_01/Module_3/*.txt
 **/Week_01/Module_3.5/*.exe
+**/Week_01/Module_3.5/*.txt
 
 **/Week_02/Module_5/*.exe
+**/Week_02/Module_5/*.txt
 **/Week_02/Module_5/tempCodeRunnerFile.c
 **/Week_02/Module_6/*.exe
+**/Week_02/Module_6/*.txt
 **/Week_02/Module_6.5/*.exe
+**/Week_02/Module_6.5/*.txt
 **/Week_02/Module_6.5/katryoshka_PS.c
 **/Week_02/Module_7/*.exe
+**/Week_02/Module_7/*.txt
+**/Week_02/Module_7.5/*.exe
+**/Week_02/Module_7.5/*.txt
